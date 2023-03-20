@@ -1,5 +1,5 @@
-# QPay uID Helper 
-### Original Script by Vinh The Nguyen 
+# QPay Student ID Helper 
+**Original Script by Vinh The Nguyen **
 
 ## About 
 QPay event attendee lists do not have a Student ID
